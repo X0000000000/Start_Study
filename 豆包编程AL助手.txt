@@ -1,0 +1,3 @@
+基本操作同Fitten Code:
+在pycharm搜索
+MarsCode，然后安装
