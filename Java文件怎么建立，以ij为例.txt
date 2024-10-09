@@ -1,0 +1,7 @@
+以intellj IDEA为例
+1.打开file
+2.点击new->project
+3.建立项目
+4.选择 Java 类
+5.在名称字段中，输入 com.example.helloworld.HelloWorld 并点击确定，
+6.IntelliJ IDEA 将创建 com.example.helloworld 包和 HelloWorld 类。
